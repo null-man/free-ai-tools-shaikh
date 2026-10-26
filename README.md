@@ -1122,6 +1122,9 @@ Professional-grade content creation with generous free tiers.
 | [PromptImage](https://promptimage.cloud) | Image / Video | Signup credits, no card | Free AI image & video studio with prompt library |
 | [TeslaWraps](https://teslawraps.design) | Design / Mockup | Core editing free, no account | Browser Tesla Paint Shop wrap editor with PNG export |
 | [GrokVideo Studio](https://grokvideogenerator.dev) | Video | Free trial credits | Independent Grok Imagine text/image-to-video (not affiliated with xAI/X) |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Video | Free trial credits | Independent Grok Imagine text/image-to-video (not affiliated with xAI/X) |
+| [Bad Times AI](https://badtimesai.dev) | Video | Free trial credits | Independent Grok Imagine text/image-to-video (not affiliated with xAI/X) |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Video | Free trial credits | Independent Grok Imagine text/image-to-video (not affiliated with xAI/X) |
 | [Recraft AI](https://recraft.ai) | Vector/SVG | 30 credits/day | Infinitely scalable icons and logos |
 | [Ideogram](https://ideogram.ai) | Images | 10-20 prompts/day | Perfect text rendering, "Magic Prompt" |
 | [Suno AI](https://suno.ai) | Music | 50 credits/day (~10 tracks) | Complete songs with vocals and instruments |
